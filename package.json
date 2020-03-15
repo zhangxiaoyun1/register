@@ -1,0 +1,29 @@
+{
+  "name": "register",
+  "version": "1.0.0",
+  "description": "",
+  "main": "register.js",
+  "dependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-usemin": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangxiaoyun1/register.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangxiaoyun1/register/issues"
+  },
+  "homepage": "https://github.com/zhangxiaoyun1/register#readme"
+}
