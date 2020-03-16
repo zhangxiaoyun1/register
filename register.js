@@ -1,3 +1,4 @@
+/*global $ :true */
 $(
     function(){
         var a=false,
@@ -76,6 +77,7 @@ $(
                         i=60;
                     }else{
                         $send.text('重新获取('+i+'s)');
+                        $sends.text('验证码已发送，请及时查收');
                         if($get.val()){
                             d=true;
                             $put.removeAttr('disabled');
